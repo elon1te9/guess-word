@@ -4,11 +4,15 @@
 bin/
 obj/
 out/
+artifacts/
+TestResults/
+*.nupkg
 
 # =========================
 # USER FILES
 # =========================
 *.user
+*.rsuser
 *.suo
 *.userosscache
 *.sln.docstates
@@ -17,6 +21,7 @@ out/
 # VISUAL STUDIO
 # =========================
 .vs/
+.vscode/
 *.VC.db
 *.VC.opendb
 
