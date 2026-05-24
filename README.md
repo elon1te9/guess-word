@@ -2,6 +2,44 @@
 
 **GuessWord** — это современное веб-приложение для угадывания слов, реализующее одиночный и многопользовательский режимы. Проект сочетает интеллектуальную игровую логику на основе векторных представлений слов (embeddings), безопасную авторизацию, хранение истории игр и таблицу лидеров.
 
+## Скриншоты
+
+### Главная страница
+
+![Главная страница](documentation/screenshots/home.png)
+
+### Игровое лобби
+
+![Игровое лобби](documentation/screenshots/game-lobby.png)
+
+### Одиночная игра
+
+![Одиночная игра](documentation/screenshots/singleplayer-game.png)
+
+### Комната 1 на 1: ожидание соперника
+
+![Комната 1 на 1: ожидание соперника](documentation/screenshots/multiplayer-room-waiting.png)
+
+### Комната 1 на 1: готово к старту
+
+![Комната 1 на 1: готово к старту](documentation/screenshots/multiplayer-room-ready.png)
+
+### Игра 1 на 1
+
+![Игра 1 на 1](documentation/screenshots/multiplayer-game.png)
+
+### Подключение к комнате
+
+![Подключение к комнате](documentation/screenshots/join-room-modal.png)
+
+### Таблица лидеров
+
+![Таблица лидеров](documentation/screenshots/leaderboard.png)
+
+### Профиль игрока
+
+![Профиль игрока](documentation/screenshots/profile.png)
+
 ## 🕹 Основной функционал
 
 - Регистрация и авторизация пользователей с использованием JWT.
