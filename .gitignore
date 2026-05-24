@@ -45,6 +45,9 @@ node_modules/
 # =========================
 # LOCAL CONFIG
 # =========================
+.env
+.env.*
+!.env.example
 appsettings.Development.json
 
 # =========================
